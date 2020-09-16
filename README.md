@@ -8,7 +8,7 @@ Este exemplo de aplicação irá acender e apagar um LED através de um sensor d
 
 |Sensor|Arduino|
 |-|-|
-|5V|5V|
+|VCC|5V|
 |GND|GND|
 |SIG|D4|
  
